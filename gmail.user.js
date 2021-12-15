@@ -8,6 +8,8 @@
 // @grant        none
 // ==/UserScript==
 
+// replaced by: https://addons.mozilla.org/en-US/firefox/addon/tab-retitle
+
 (async function(){
     /*** prepend "Gmail" to tab title:  **/
     setInterval(()=>{
